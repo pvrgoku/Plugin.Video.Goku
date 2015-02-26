@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 '''
-     Genesis Add-on lambda
-    Copyright (C) 2014 
+    Genesis Add-on
+    Copyright (C) 2014 lambda
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -18,7 +18,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 
-import urllib,urllib2,re,os,xbmc,xbmcgui,xbmcaddon,xbmcvfs,kodi
+import urllib,urllib2,re,os,xbmc,xbmcgui,xbmcaddon,xbmcvfs
 
 try:
     import CommonFunctions as common
